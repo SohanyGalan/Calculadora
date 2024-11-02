@@ -28,5 +28,12 @@ body{
 .pantalla{
     grid-column: 1/ -1;
     background-color: rgb(204, 200, 194);
-    padding
+    padding: 1.5rem;
+    font-size: 2rem;
+    text-align: right;
+    border-radius: .5rem;
+    margin-bottom: 1rem ;
+    font-family:monospace ;
+    font-weight: 600;
 }
+
