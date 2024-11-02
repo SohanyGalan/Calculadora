@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    min-height: 100vh;  
+    background-color: rgb(20, 1, 41);
+    display: grid;
+    place-items: center;
+}
+
+.Calculadora{
+    background-color: rgb(172, 113, 244);
+    color: whitesmoke;
+    display: grid;
+    border-radius: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    width: 350px;
+    max-width: 100%;
+    padding: 1.5 rem;
+    grid-template-columns: repeat(4, 1fr);
+    gap: .5rem;
+}
+
+.pantalla{
+    grid-column: 1/ -1;
+    background-color: rgb(204, 200, 194);
+    padding
+}
