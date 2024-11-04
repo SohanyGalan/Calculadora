@@ -7,7 +7,7 @@
 
 body{
     min-height: 100vh;  
-    background-color: rgb(20, 1, 41);
+    background-color: rgb(42, 4, 78);
     display: grid;
     place-items: center;
 }
@@ -27,7 +27,7 @@ body{
 
 .pantalla{
     grid-column: 1/ -1;
-    background-color: rgb(204, 200, 194);
+    background-color: rgb(124, 120, 120);
     padding: 1.5rem;
     font-size: 2rem;
     text-align: right;
@@ -37,3 +37,9 @@ body{
     font-weight: 600;
 }
 
+.btn {
+    background-color: #fff;
+    color: rgb(47, 44, 44); 
+    border: 0; 
+    padding: 1.5rem .5rem ;
+}
