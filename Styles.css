@@ -37,7 +37,8 @@ body{
     font-weight: 600;
 }
 
-.btn {
+.btn{
+<<<< HEAD
     background-color:(172, 113, 244);
     color: rgb(47, 44, 44); 
     border: 0; 
@@ -66,3 +67,5 @@ body{
 background-color: rgb(145, 28, 255);
 }
 
+
+>>>>>>> 33e51584e3c564b8f70320ada3e0a5d137361b1d
